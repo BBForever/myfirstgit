@@ -3,3 +3,5 @@ This is my file
 This is the second section
 
 This is the third edition
+
+This is fourth section
